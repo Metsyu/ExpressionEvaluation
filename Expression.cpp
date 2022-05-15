@@ -1,14 +1,3 @@
-/*
- *
- * Author: Joseph Maldonado
- * ID#: 010880953
- *
- * This file contains the implementation of the Expression class.
- *
- * The functionality of each method is given at the beginning of each method.
- *
- */
-
 #include "Expression.h"
 
 //Default Constructor
