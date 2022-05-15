@@ -1,13 +1,3 @@
-/*
- *
- * Author: Joseph Maldonado
- * ID#: 010880953
- *
- * This file contains the menu interface for Homework 6,
- * as well as other functionality for the Expression Evaluation Program.
- *
- */
-
 #include "Expression.h"
 
 using namespace std;
