@@ -1,12 +1,3 @@
-/*
- *
- * Author: Joseph Maldonado
- * ID#: 010880953
- *
- * This file is the header file for Expression.cpp.
- *
- */
-
 #ifndef EXPRESSION_H
 #define EXPRESSION_H
 
