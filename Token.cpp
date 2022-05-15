@@ -1,30 +1,3 @@
-/*
- *
- * Author: Joseph Maldonado
- * ID#: 010880953
- *
- * This file contains the implementation of the Token class.
- *
- * The default constructor, Token(), initializes type to INVALID, token to an empty string, and priority to -1.
- *
- * The Constructor, Token(string s), takes in a string, treats it as a token and sets the type and token members. It
- * also sets the priority value depending on what the token contains.
- *
- * The method, set(string s), takes in a string and treats it as a token. It sets the members based on the new
- * token s. It also sets the priority value depending on what the token contains.
- *
- * The method, value(), returns the value associated with the token.
- *
- * The method, display(), outputs the values of the token members in three lines.
- *
- * The method, get_type(), returns the type member.
- *
- * The method, get_token(), returns the token member.
- *
- * The method, get_priority, returns the priority member.
- *
- */
-
 #include "Token.h"
 
 Token :: Token()
