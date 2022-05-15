@@ -1,12 +1,3 @@
-/*
- *
- * Author: Joseph Maldonado
- * ID#: 010880953
- *
- * This file is the header file for Token.cpp.
- *
- */
-
 #ifndef TOKEN_H
 #define TOKEN_H
 
